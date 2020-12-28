@@ -1,0 +1,47 @@
+* {
+    text-align: center;
+    background-color:  #00e1ff;
+}
+
+.inpBox {
+    width: 300px !important;
+    height: 50px;
+    margin-top: 75px !important;
+    /* margin-left: 535px; */
+    margin-bottom: 25px;
+    border: 3px solid black !important;
+    background-color: white;
+    border-radius: 10px;
+}
+
+
+
+.adBtn {
+    margin-bottom: 50px;
+}
+
+.deBtn {
+    margin-bottom: 50px;
+}
+
+.head1 {
+    margin-top: 25px;
+    background-color: #00d9ff;
+    height: 60px;
+    color: #0391a3;
+}
+
+.edBtn123 {
+    margin-left: 10px;
+    margin-bottom: 10px;
+    margin-top: 10px;
+}
+
+.list123 {
+    background-color: #00d9ff;
+    color: #000000;
+    margin-right: 50px;
+    margin-bottom: 10px;
+    border-radius: 20px;
+    
+}
